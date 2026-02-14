@@ -6,6 +6,11 @@ DeepPredict is a multi-domain forecasting web application built with React + Vit
 ### 🏠 Home Page
 
 ![Home Page](screenshots/home-page.png)
+## 📸 Application Preview
+
+<p align="center">
+  <img src="screenshots/home-page.png" width="85%" />
+</p>
 
 It includes forecasting modules for:
 
