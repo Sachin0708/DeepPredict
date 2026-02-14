@@ -3,7 +3,7 @@
 DeepPredict is a multi-domain forecasting web application built with React + Vite that provides interactive prediction tools across multiple business domains.
 ### 🏠 Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/Screenshot%202025-12-27%20092731.png)
 
 It includes forecasting modules for:
 
